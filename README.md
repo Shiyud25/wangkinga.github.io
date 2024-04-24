@@ -112,10 +112,10 @@ Sub-problem
 
  ## Group Members
 
-| Name | Email | 
+| Name | Email | Contribution
 | --- | --- | 
-| Wang Yanjie | [WANG2037@e.ntu.edu.sg](mailto:WANG2037@e.ntu.edu.sg) |
-| Dai Shiyu | [dais0013@e.ntu.edu.sg](mailto:dais0013@e.ntu.edu.sg) | 
+| Wang Yanjie | [WANG2037@e.ntu.edu.sg](mailto:WANG2037@e.ntu.edu.sg) |slides,script, machinelearning,conclusion
+| Dai Shiyu | [dais0013@e.ntu.edu.sg](mailto:dais0013@e.ntu.edu.sg) | slides, script, motivation, problem formulation, data exploration
 
 ## Reference
 
@@ -127,6 +127,6 @@ Various resources were used to help us gain a better understanding of the projec
    - Helped us gain a basic understanding of machine learning.
    - Lab classes guided us to start using Jupyter Notebook.
 4. [ChatGPT](https://chat.openai.com/)
-   - Help us understand the code.
+   - Help us to understand the code
    - Help us debug code when it's not working properly.
 
